@@ -1,0 +1,9 @@
+SEPOLIA_URL=
+PRIVATE_KEY=
+ETHERSCAN_KEY=
+
+
+PINAT_APIKey=
+PINATA_APISecret=
+
+need this things
